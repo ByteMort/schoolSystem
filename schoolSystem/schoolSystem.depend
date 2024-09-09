@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1723407752 source:/home/mortwain/Documents/C++/schoolSystem/main.cpp
+	"include.h"
+
+1725839391 /home/mortwain/Documents/C++/schoolSystem/include.h
+	<iostream>
+	<string>
+	<cstdlib>
+	<mysql_driver.h>
+	<mysql_connection.h>
+	<cppconn/exception.h>
+	<cppconn/statement.h>
+	<cppconn/prepared_statement.h>
+	<cppconn/resultset.h>
+	"classes/Database.h"
+	"classes/Lesson.h"
+	"classes/Class.h"
+	"classes/Student.h"
+	"classes/Teacher.h"
+	"classes/TeacherL.h"
+	"classes/StudentL.h"
+	"classes/Admin.h"
+	"functions/mainFunctions.h"
+
+1723409648 /home/mortwain/Documents/C++/schoolSystem/classes/Database.h
+
+1725841553 /home/mortwain/Documents/C++/schoolSystem/functions/mainFunctions.h
+
+1725837243 /home/mortwain/Documents/C++/schoolSystem/classes/Admin.h
+
+1725836255 /home/mortwain/Documents/C++/schoolSystem/classes/Student.h
+
+1725838080 /home/mortwain/Documents/C++/schoolSystem/classes/Teacher.h
+
+1724597582 /home/mortwain/Documents/C++/schoolSystem/classes/Lesson.h
+
+1724597539 /home/mortwain/Documents/C++/schoolSystem/classes/Class.h
+
+1725841345 /home/mortwain/Documents/C++/schoolSystem/classes/TeacherL.h
+
+1725841518 /home/mortwain/Documents/C++/schoolSystem/classes/StudentL.h
+
